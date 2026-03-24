@@ -73,7 +73,6 @@ Developed an end-to-end ML web application that predicts skin type and recommend
 
 ## 📫 Connect With Me
 
-* LinkedIn: (add your link)
 * GitHub: https://github.com/Diya-Saini29
 
 ---
