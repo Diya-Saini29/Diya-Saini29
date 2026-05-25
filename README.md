@@ -1,80 +1,41 @@
 # Hi, I'm Diya 👋
 
-🎓 AI/ML Undergraduate
-💡 Interested in Machine Learning, Deep Learning, and building intelligent systems
-🚀 Currently working on projects in AI, data analysis, and model deployment
+AI/ML undergraduate at Thapar Institute of Engineering & Technology (9.3 CGPA) — building computer vision systems from model training to edge deployment, and researching how AI fails under adversarial attack in high-stakes medical settings.
 
 ---
 
-## 🧠 About Me
+## 🔬 Currently
 
-* 🎓 Second-year AI/ML student
-* 💻 Passionate about solving real-world problems using data and machine learning
-* 📊 Interested in ML systems, neural networks, and AI applications
-* 🌱 Currently learning **Deep Learning, Model Deployment, and MLOps**
+- **Undergraduate Research** — Adversarial robustness of ML models for orthopedic X-ray classification (Supervisor: Prof. Tarunpreet Bhatia, Thapar Institute)
+- **IBM Generative AI Engineering Certificate** — Prompt Engineering, LangChain, LLM fine-tuning (in progress)
 
 ---
 
-##🚀 Projects
+## 🚀 Featured Projects
 
-*Potato Disease Detection using Deep Learning | Python, TensorFlow, CNN, XAI
-Developed a CNN-based model using transfer learning to classify potato leaf diseases and applied Explainable AI techniques to visualize model predictions.
-
-*AI-Powered Skincare Assistant | Python, Flask, TensorFlow, REST APIs
-Built a full-stack AI web application that analyzes acne images using a CNN model and integrates weather APIs to provide skincare safety insights.
-
-*Spam Email Classifier | Python, Scikit-learn, NLP
-Implemented a text classification system using TF-IDF vectorization and machine learning models to detect spam emails.
-
-*Smart Skincare Recommendation System | Python, Flask, Scikit-learn
-Developed an end-to-end ML web application that predicts skin type and recommends personalized skincare products using a machine learning pipeline.
+| Project | What it does | Stack | Highlight |
+|---|---|---|---|
+| [Traffic Sign Detection & Edge AI](https://github.com/Diya-Saini29/traffic-sign-detection-edge-ai) | Detects & assesses damage on 43 sign types in real time | YOLOv8, TensorRT, Jetson Nano | 96% mAP · 18 FPS on edge · 50% memory reduction |
+| [ClearSkin AI](https://github.com/Diya-Saini29/AI-Powered-Skincare-Assistant) | Classifies 5 acne types + UV-aware skincare insights | CNN, TensorFlow, Flask, REST APIs | Full-stack AI web app · <200ms response |
+| [Smart Skincare Recommender](https://github.com/Diya-Saini29/smart-skincare-recommendation-system) | Predicts skin type and recommends products | Scikit-learn, Flask | End-to-end ML pipeline |
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages**
+**Languages:** Python · C++ · JavaScript · SQL · R · MATLAB
 
-* Python
-* SQL
+**ML / AI:** TensorFlow · YOLOv8 · Scikit-learn · CNNs · Transfer Learning · RAG · Explainable AI
 
-**Libraries & Frameworks**
-
-* NumPy
-* Pandas
-* Scikit-learn
-* TensorFlow / PyTorch
-
-**Tools**
-
-* GitHub
-* Jupyter Notebook
-* VS Code
+**Tools:** OpenCV · TensorRT · NumPy · Pandas · Flask · REST APIs · Git · NVIDIA Jetson Nano
 
 ---
 
-## 📊 Areas of Interest
+## 📫 Connect
 
-* Machine Learning
-* Deep Learning
-* AI Applications
-* Data Analysis
-* Model Deployment
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Diya%20Saini-blue?logo=linkedin)](https://linkedin.com/in/diya-saini-m)
+[![Email](https://img.shields.io/badge/Email-sainidiya889%40gmail.com-red?logo=gmail)](mailto:sainidiya889@gmail.com)
 
 ---
 
-## 📚 Currently Learning
-
-* Neural Networks & Deep Learning
-* FastAPI for ML model deployment
-
-
----
-
-## 📫 Connect With Me
-
-* GitHub: https://github.com/Diya-Saini29
-
----
-
-⭐ *Always learning, building, and exploring new ideas in AI.*
+*Always building. Always breaking things to understand them better.*
